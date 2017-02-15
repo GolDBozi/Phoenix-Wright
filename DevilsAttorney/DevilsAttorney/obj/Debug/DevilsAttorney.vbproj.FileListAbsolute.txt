@@ -1,0 +1,11 @@
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\bin\Debug\DevilsAttorney.exe.config
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\bin\Debug\DevilsAttorney.exe
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\bin\Debug\DevilsAttorney.pdb
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\bin\Debug\DevilsAttorney.xml
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\obj\Debug\DevilsAttorney.vbprojResolveAssemblyReference.cache
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\obj\Debug\DevilsAttorney.Form1.resources
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\obj\Debug\DevilsAttorney.Resources.resources
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\obj\Debug\DevilsAttorney.vbproj.GenerateResource.Cache
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\obj\Debug\DevilsAttorney.exe
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\obj\Debug\DevilsAttorney.xml
+c:\users\goldbozi\documents\visual studio 2015\Projects\DevilsAttorney\DevilsAttorney\obj\Debug\DevilsAttorney.pdb
